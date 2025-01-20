@@ -4,7 +4,7 @@ Este proyecto proporciona una herramienta sencilla para generar códigos QR a pa
 
 ## Características:
 - Generación de códigos QR personalizados a partir de enlaces o texto.
-' Almacenamiento automático de los códigos QR en una carpeta local.
+- Almacenamiento automático de los códigos QR en una carpeta local.
 
 ## Requisitos:
 - Python 3.x
